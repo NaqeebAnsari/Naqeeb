@@ -9,6 +9,8 @@ namespace ertertre
 	{
 		int count = 1;
 		int a = 5;
+		int c = 4;
+
 
 		protected override void OnCreate(Bundle savedInstanceState)
 		{
