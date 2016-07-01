@@ -8,6 +8,7 @@ namespace ertertre
 	public class MainActivity : Activity
 	{
 		int count = 1;
+		int a = 5;
 
 		protected override void OnCreate(Bundle savedInstanceState)
 		{
